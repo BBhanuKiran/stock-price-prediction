@@ -1,0 +1,5 @@
+# Local training requirements (run train_models.py / notebook on your PC)
+-r requirements.txt
+tensorflow>=2.15
+nbformat
+jupyter
